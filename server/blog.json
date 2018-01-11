@@ -1,0 +1,24 @@
+[
+  {
+    "title":{
+      "es":"Título Blog",
+      "en":"MySQL, import SQL file from console"
+    },
+    "description": {
+      "es":"Descripción Blog",
+      "en":"Importing SQL data in MySQL is very simple through PHPMyAdmin, either from the import option or directly executing the SQL. The thing gets complicated when there are a lot of data and the SQL file weighs more than the one allowed by the import option or, in the SQL web executer, it becomes heavy to make a simple cut and paste (ctr + cy ctrl + v) due to the large amount of information."
+    },
+    "categories": [
+      "desarrollo",
+      "javascript"
+    ],
+    "type": "Blog",
+    "updatedAt": 1514416055741,
+    "createdAt": 1514416055741,
+    "banner": "https://caicedo1089.github.io/server/blog/1/imgBanner.png",
+    "url": {
+      "en": "/blog/1",
+      "es": "/blog/1"
+    }
+  }
+]
